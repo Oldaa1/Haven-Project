@@ -1,2 +1,2 @@
 # Haven-Project
-A repo for Hack Club Haven ,The project.
+A repo for a project for the hack club haven game jam.
